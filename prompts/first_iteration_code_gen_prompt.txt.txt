@@ -1,0 +1,28 @@
+<|begin_of_text|><|start_header_id|>system<|end_header_id|>
+You are a helpful assistant specializing in generating code.<|eot_id|>
+<|start_header_id|>user<|end_header_id|>Generate a complete Python code to automate the following test case to be automated based on the pattern in the given Test Case examples.
+**Write each and every function of your code completely with exactly as it is done in Test Case examples and do not pass any function.
+Do not directly use the functions and methods provided in the context. Instead, understand how they are used in the test cases and write all the required functions and methods explicitly to complete the steps in the test case.
+Use Chain of Thought while generating code for test case to be automated. 
+Adheres to PEP 8 coding guidelines and uses snake_case for variable, function, and method names.**
+
+**Test Case 1: Generate a Python script based on the provided testing steps to verify test mention in the summary.**
+Python Code 1:
+###--Start of python code--
+<python code>
+###--End of python code--
+
+**Test Case 2:Generate a Python script based on the provided testing steps to verify test mention in the summary.**
+Python Code 2:
+###--Start of python code--
+<python code>
+###--End of python code--
+
+**Test Case 3: Generate a Python script based on the provided testing steps to verify test mention in the summary.**
+Python Code 3:
+###--Start of python code--
+<python code>
+###--End of python code--
+
+Test Case To be Automated:
+<|eot_id|><|start_header_id|>assistant<|end_header_id|>

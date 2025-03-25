@@ -1,0 +1,10 @@
+FROM llama3.1:8b-instruct-q5_K_M
+
+PARAMETER seed 42
+PARAMETER temperature 0.2
+PARAMETER top_k 10
+PARAMETER top_p 0.2
+PARAMETER repeat_last_n 0
+PARAMETER num_ctx 64000
+
+SYSTEM """You are a helpful assistant specializing in generating code."""
